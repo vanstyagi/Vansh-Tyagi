@@ -1,3 +1,3 @@
 This is my first Git Repository
 <br>
-Author : Vansh Tyagi
+Author : Vansh (Tyagi)
